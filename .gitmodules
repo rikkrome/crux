@@ -1,0 +1,3 @@
+[submodule "apps/crux-submodule-app"]
+	path = apps/crux-submodule-app
+	url = git@github.com:romerorickyio/crux-submodule-app.git
